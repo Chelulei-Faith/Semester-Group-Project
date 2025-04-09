@@ -8,7 +8,7 @@
 This project is a **Student Examination Processing System** developed for Strathmore University. It is designed to manage student data, record examination scores, calculate grades, and generate detailed report cards. 
 
 ## Features
-- Input and store details for multiple students, including their names, ID numbers, and scores for various subjects.
+- Input and store details for at least ten  students, including their names, ID numbers, and scores for various subjects.
 - Automatically calculate average scores, assign grades, and provide performance-based recommendations.
 - Generate and display detailed report cards for all students or a specific student.
 
@@ -41,7 +41,7 @@ This file defines the `Student` class, which encapsulates all the data related t
 - **Grade Calculation:** Assigns grades (`A`, `B`, `C`, `D`, `E`) based on the average score.
 - **Recommendations:** Provides feedback such as "Excellent," "Very Good," or "Poor" based on the grade.
 - **Report Card Generation:** Displays a formatted report card with all relevant details, including the date of generation.
-
+  
 ## Subjects Included
 The system processes scores for the following subjects:
 1. Linear Algebra
