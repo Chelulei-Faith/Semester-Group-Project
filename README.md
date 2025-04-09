@@ -1,5 +1,9 @@
 # Semester-Group-Project
 
+# Chelulei Faith Cherop - 163446
+# Kimathi Dexter Kimathi - 166889
+# Metabel Mumbi - 150472
+
 ## Project Overview
 This project is a **Student Examination Processing System** developed for Strathmore University. It is designed to manage student data, record examination scores, calculate grades, and generate detailed report cards. 
 
